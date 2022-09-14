@@ -13,12 +13,6 @@ interface Props {
   onClick?: () => void;
 }
 
-// animation
-// - onInitialLoad() (fade image in)
-
-// animation
-// - onSwitchUrl() (fade image in, fade preview out)
-// - onStatusSwitch()
 
 const ImageComponent = (props: Props) => {
 
